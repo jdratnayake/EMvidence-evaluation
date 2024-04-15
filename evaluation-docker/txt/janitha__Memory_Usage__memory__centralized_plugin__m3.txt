@@ -1,0 +1,6 @@
+67b3cca1e453   analysis-service   5.41%     219.7MiB / 7.759GiB   2.76%     1.32kB / 0B   360MB / 0B   4
+67b3cca1e453   analysis-service   5.09%     219.7MiB / 7.759GiB   2.76%     1.32kB / 0B   360MB / 0B   4
+67b3cca1e453   analysis-service   4.72%     219.7MiB / 7.759GiB   2.76%     1.32kB / 0B   360MB / 0B   4
+67b3cca1e453   analysis-service   5.10%     219.7MiB / 7.759GiB   2.76%     1.32kB / 0B   360MB / 0B   4
+67b3cca1e453   analysis-service   4.29%     219.7MiB / 7.759GiB   2.76%     1.32kB / 0B   360MB / 0B   4
+67b3cca1e453   analysis-service   4.22%     287.2MiB / 7.759GiB   3.61%     2.76kB / 770B   366MB / 0B   10
