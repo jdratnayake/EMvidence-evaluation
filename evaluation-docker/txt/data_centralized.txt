@@ -1,4 +1,4 @@
-7cbb7586949a   backend-app   0.08%     50.61MiB / 7.759GiB   0.64%     1.25kB / 0B   38.8MB / 0B       2
+7cbb7586949a   backend-app   0.08%     5.61GiB / 7.759GiB   0.64%     1.25kB / 0B   38.8MB / 0B       2
 7cbb7586949a   backend-app   0.08%     50.61MiB / 7.759GiB   0.64%     1.25kB / 0B   38.8MB / 0B       2
 7cbb7586949a   backend-app   0.07%     50.61MiB / 7.759GiB   0.64%     1.25kB / 0B   38.8MB / 0B       2
 7cbb7586949a   backend-app   0.08%     50.61MiB / 7.759GiB   0.64%     1.25kB / 0B   38.8MB / 0B       2
