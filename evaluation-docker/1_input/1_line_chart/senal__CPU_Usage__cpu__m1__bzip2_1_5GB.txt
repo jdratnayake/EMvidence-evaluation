@@ -1,0 +1,345 @@
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b24b6f3947ce   frontend-app   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+0.581 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b24b6f3947ce   frontend-app   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+1.170 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b24b6f3947ce   frontend-app   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+1.757 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b24b6f3947ce   frontend-app   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+2.344 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b24b6f3947ce   frontend-app   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+2.932 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b24b6f3947ce   frontend-app   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+3.516 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b24b6f3947ce   frontend-app   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+4.079 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b24b6f3947ce   frontend-app   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+4.640 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b24b6f3947ce   frontend-app   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+5.228 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+b24b6f3947ce   frontend-app   0.00%     0B / 0B             0.00%     0B / 0B   0B / 0B     0
+5.813 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O       BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   4.26%     198.3MiB / 1.87GiB   10.36%    1.02kB / 0B   0B / 0B     4
+2.543 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O       BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   5.67%     198.5MiB / 1.87GiB   10.37%    1.02kB / 0B   0B / 0B     4
+4.551 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O       BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   4.88%     198.5MiB / 1.87GiB   10.37%    1.02kB / 0B   0B / 0B     4
+6.566 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O       BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   4.70%     198.6MiB / 1.87GiB   10.37%    1.02kB / 0B   0B / 0B     4
+8.577 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O       BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   4.04%     198.3MiB / 1.87GiB   10.36%    1.02kB / 0B   0B / 0B     4
+10.593 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O       BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   3.96%     198.3MiB / 1.87GiB   10.36%    1.02kB / 0B   0B / 0B     4
+12.603 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O       BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   4.09%     198.3MiB / 1.87GiB   10.36%    1.02kB / 0B   0B / 0B     4
+14.612 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O       BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   4.96%     198.3MiB / 1.87GiB   10.36%    1.02kB / 0B   0B / 0B     4
+16.627 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   99.50%    207.8MiB / 1.87GiB   10.85%    1.75kB / 322B   0B / 0B     4
+18.631 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.46%   207.9MiB / 1.87GiB   10.86%    1.75kB / 322B   0B / 0B     4
+20.639 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   98.91%    207.9MiB / 1.87GiB   10.86%    1.75kB / 322B   0B / 0B     4
+22.642 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.45%   208MiB / 1.87GiB    10.86%    1.8kB / 364B   0B / 0B     4
+24.648 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.14%   208MiB / 1.87GiB    10.86%    1.8kB / 364B   0B / 0B     4
+26.657 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O        BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   99.82%    208.1MiB / 1.87GiB   10.87%    1.8kB / 364B   0B / 0B     4
+28.659 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O        BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.16%   208.1MiB / 1.87GiB   10.87%    1.8kB / 364B   0B / 0B     4
+30.664 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.69%   208.3MiB / 1.87GiB   10.88%    1.87kB / 364B   0B / 0B     4
+32.668 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   102.09%   208.3MiB / 1.87GiB   10.88%    1.87kB / 364B   0B / 0B     4
+34.670 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.87%   208.2MiB / 1.87GiB   10.87%    1.87kB / 364B   0B / 0B     4
+36.675 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.84%   208.4MiB / 1.87GiB   10.88%    1.87kB / 364B   0B / 0B     4
+38.679 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.56%   208.4MiB / 1.87GiB   10.88%    1.87kB / 364B   0B / 0B     4
+40.683 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.10%   208.4MiB / 1.87GiB   10.88%    1.87kB / 364B   0B / 0B     4
+42.682 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.26%   208.6MiB / 1.87GiB   10.89%    1.87kB / 364B   0B / 0B     4
+44.693 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.25%   208.5MiB / 1.87GiB   10.89%    1.87kB / 364B   0B / 0B     4
+46.695 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.09%   208.6MiB / 1.87GiB   10.89%    1.87kB / 364B   0B / 0B     4
+48.701 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.27%   208.4MiB / 1.87GiB   10.88%    1.87kB / 364B   0B / 0B     4
+50.705 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.05%   208.3MiB / 1.87GiB   10.88%    1.87kB / 364B   0B / 0B     4
+52.711 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.79%   208.4MiB / 1.87GiB   10.88%    1.87kB / 364B   0B / 0B     4
+54.714 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.38%   207.5MiB / 1.87GiB   10.84%    1.87kB / 364B   0B / 0B     4
+56.723 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.22%   207.5MiB / 1.87GiB   10.84%    1.87kB / 364B   0B / 0B     4
+58.723 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.16%   207.6MiB / 1.87GiB   10.84%    1.87kB / 364B   0B / 0B     4
+60.725 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.58%   207.3MiB / 1.87GiB   10.82%    1.87kB / 364B   0B / 0B     4
+62.728 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.69%   207.2MiB / 1.87GiB   10.82%    1.87kB / 364B   0B / 0B     4
+64.737 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.52%   207.3MiB / 1.87GiB   10.83%    1.87kB / 364B   0B / 0B     4
+66.736 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.04%   206.8MiB / 1.87GiB   10.80%    1.87kB / 364B   0B / 0B     4
+68.745 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.48%   207MiB / 1.87GiB    10.81%    1.87kB / 364B   0B / 0B     4
+70.745 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.74%   206.9MiB / 1.87GiB   10.80%    1.87kB / 364B   0B / 0B     4
+72.755 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.59%   207.1MiB / 1.87GiB   10.82%    1.87kB / 364B   0B / 0B     4
+74.760 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   99.70%    207MiB / 1.87GiB    10.81%    1.87kB / 364B   0B / 0B     4
+76.762 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   99.98%    206.5MiB / 1.87GiB   10.79%    1.87kB / 364B   0B / 0B     4
+78.769 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.00%   206.7MiB / 1.87GiB   10.79%    1.87kB / 364B   0B / 0B     4
+80.777 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.18%   206.2MiB / 1.87GiB   10.77%    1.87kB / 364B   0B / 0B     4
+82.782 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.53%   206.4MiB / 1.87GiB   10.78%    1.87kB / 364B   0B / 0B     4
+84.786 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.04%   206.3MiB / 1.87GiB   10.78%    1.87kB / 364B   0B / 0B     4
+86.789 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.28%   206.4MiB / 1.87GiB   10.78%    1.87kB / 364B   0B / 0B     4
+88.798 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.37%   206.3MiB / 1.87GiB   10.78%    1.87kB / 364B   0B / 0B     4
+90.800 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.74%   206.5MiB / 1.87GiB   10.79%    1.87kB / 364B   0B / 0B     4
+92.804 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.29%   206.5MiB / 1.87GiB   10.78%    1.87kB / 364B   0B / 0B     4
+94.807 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.33%   206.5MiB / 1.87GiB   10.79%    1.87kB / 364B   0B / 0B     4
+96.815 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.10%   206.5MiB / 1.87GiB   10.78%    1.87kB / 364B   0B / 0B     4
+98.825 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.68%   206.7MiB / 1.87GiB   10.79%    1.87kB / 364B   0B / 0B     4
+100.824 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.37%   206.7MiB / 1.87GiB   10.79%    1.87kB / 364B   0B / 0B     4
+102.831 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.87%   206.7MiB / 1.87GiB   10.80%    1.87kB / 364B   0B / 0B     4
+104.842 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.21%   206.7MiB / 1.87GiB   10.79%    1.87kB / 364B   0B / 0B     4
+106.844 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.85%   206.8MiB / 1.87GiB   10.80%    1.87kB / 364B   0B / 0B     4
+108.849 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.71%   206.7MiB / 1.87GiB   10.80%    1.87kB / 364B   0B / 0B     4
+110.852 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.01%   206.8MiB / 1.87GiB   10.80%    1.87kB / 364B   0B / 0B     4
+112.857 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.34%   206.9MiB / 1.87GiB   10.81%    1.87kB / 364B   0B / 0B     4
+114.861 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.05%   206.8MiB / 1.87GiB   10.80%    1.87kB / 364B   0B / 0B     4
+116.861 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.77%   207MiB / 1.87GiB    10.81%    1.87kB / 364B   0B / 0B     4
+118.870 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.91%   207MiB / 1.87GiB    10.81%    1.87kB / 364B   0B / 0B     4
+120.874 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.70%   207MiB / 1.87GiB    10.81%    1.87kB / 364B   0B / 0B     4
+122.880 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.40%   207.1MiB / 1.87GiB   10.82%    1.87kB / 364B   0B / 0B     4
+124.888 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.25%   207.1MiB / 1.87GiB   10.81%    1.87kB / 364B   0B / 0B     4
+126.893 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.19%   207.2MiB / 1.87GiB   10.82%    1.87kB / 364B   0B / 0B     4
+128.897 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.60%   207.2MiB / 1.87GiB   10.82%    1.87kB / 364B   0B / 0B     4
+130.905 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.40%   207.2MiB / 1.87GiB   10.82%    1.87kB / 364B   0B / 0B     4
+132.912 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.04%   207.4MiB / 1.87GiB   10.83%    1.87kB / 364B   0B / 0B     4
+134.921 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.18%   207.4MiB / 1.87GiB   10.83%    1.87kB / 364B   0B / 0B     4
+136.920 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.54%   207.4MiB / 1.87GiB   10.83%    1.87kB / 364B   0B / 0B     4
+138.925 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.14%   207.4MiB / 1.87GiB   10.83%    1.87kB / 364B   0B / 0B     4
+140.932 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.29%   207.5MiB / 1.87GiB   10.83%    1.87kB / 364B   0B / 0B     4
+142.938 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.28%   207.5MiB / 1.87GiB   10.84%    1.87kB / 364B   0B / 0B     4
+144.945 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.02%   207.6MiB / 1.87GiB   10.84%    1.87kB / 364B   0B / 0B     4
+146.946 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.19%   207.6MiB / 1.87GiB   10.84%    1.87kB / 364B   0B / 0B     4
+148.948 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.32%   207.6MiB / 1.87GiB   10.84%    1.87kB / 364B   0B / 0B     4
+150.958 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.02%   207.7MiB / 1.87GiB   10.85%    1.87kB / 364B   0B / 0B     4
+152.962 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.25%   207.7MiB / 1.87GiB   10.85%    1.87kB / 364B   0B / 0B     4
+154.965 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.87%   207.8MiB / 1.87GiB   10.85%    1.87kB / 364B   0B / 0B     4
+156.975 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.15%   207.7MiB / 1.87GiB   10.85%    1.87kB / 364B   0B / 0B     4
+158.982 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.39%   207.8MiB / 1.87GiB   10.85%    1.87kB / 364B   0B / 0B     4
+160.990 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.91%   208MiB / 1.87GiB    10.86%    1.87kB / 364B   0B / 0B     4
+162.994 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.67%   208MiB / 1.87GiB    10.86%    1.87kB / 364B   0B / 0B     4
+164.999 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.39%   208MiB / 1.87GiB    10.86%    1.87kB / 364B   0B / 0B     4
+167.004 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.59%   208MiB / 1.87GiB    10.86%    1.87kB / 364B   0B / 0B     4
+169.007 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   99.79%    208MiB / 1.87GiB    10.86%    1.87kB / 364B   0B / 0B     4
+171.013 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.11%   208.1MiB / 1.87GiB   10.87%    1.87kB / 364B   0B / 0B     4
+173.020 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.63%   208.1MiB / 1.87GiB   10.87%    1.87kB / 364B   0B / 0B     4
+175.023 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.14%   208.2MiB / 1.87GiB   10.87%    1.87kB / 364B   0B / 0B     4
+177.025 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.90%   208.3MiB / 1.87GiB   10.88%    1.87kB / 364B   0B / 0B     4
+179.034 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.24%   208.2MiB / 1.87GiB   10.87%    1.87kB / 364B   0B / 0B     4
+181.039 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   102.16%   208.2MiB / 1.87GiB   10.87%    1.87kB / 364B   0B / 0B     4
+183.041 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   99.69%    208.4MiB / 1.87GiB   10.88%    1.94kB / 364B   0B / 0B     4
+185.050 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.23%   208.4MiB / 1.87GiB   10.88%    1.94kB / 364B   0B / 0B     4
+187.058 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   100.71%   208.5MiB / 1.87GiB   10.89%    1.94kB / 364B   0B / 0B     4
+189.060 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   99.76%    208.5MiB / 1.87GiB   10.89%    1.94kB / 364B   0B / 0B     4
+191.065 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   101.62%   208.5MiB / 1.87GiB   10.89%    1.94kB / 364B   0B / 0B     4
+193.068 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   69.18%    199.4MiB / 1.87GiB   10.42%    2.07kB / 822B   0B / 0B     4
+195.091 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   4.04%     199.4MiB / 1.87GiB   10.42%    2.07kB / 954B   0B / 0B     4
+197.095 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   4.85%     199.5MiB / 1.87GiB   10.42%    2.07kB / 1.02kB   0B / 0B     4
+199.117 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   5.05%     199.4MiB / 1.87GiB   10.42%    2.24kB / 1.26kB   0B / 0B     4
+201.131 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   4.14%     199.4MiB / 1.87GiB   10.42%    2.24kB / 1.26kB   0B / 0B     4
+203.135 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   3.96%     199.4MiB / 1.87GiB   10.42%    2.24kB / 1.26kB   0B / 0B     4
+205.148 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   4.20%     199.4MiB / 1.87GiB   10.42%    2.24kB / 1.26kB   0B / 0B     4
+207.156 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   4.35%     199.4MiB / 1.87GiB   10.42%    2.24kB / 1.33kB   0B / 0B     4
+209.170 seconds
+CONTAINER ID   NAME               CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O   PIDS
+fb4df68b1611   analysis-service   4.73%     199.7MiB / 1.87GiB   10.43%    2.24kB / 1.33kB   0B / 0B     4
+211.185 seconds
