@@ -1,0 +1,408 @@
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   13.41%    483.1MiB / 7.755GiB   6.08%     11.7kB / 10.2kB   0B / 4.1kB   69
+1.975 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   15.75%    483.3MiB / 7.755GiB   6.09%     12kB / 10.4kB   0B / 4.1kB   73
+3.984 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   13.70%    479.7MiB / 7.755GiB   6.04%     12.3kB / 10.7kB   0B / 4.1kB   71
+6.005 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   39.42%    479.8MiB / 7.755GiB   6.04%     12.6kB / 11kB   0B / 4.1kB   70
+8.037 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   41.00%    482.6MiB / 7.755GiB   6.08%     12.9kB / 11.3kB   0B / 4.1kB   60
+10.043 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.33%    483MiB / 7.755GiB   6.08%     13.2kB / 11.5kB   0B / 4.1kB   62
+12.050 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.52%    483.2MiB / 7.755GiB   6.08%     13.4kB / 11.8kB   0B / 4.1kB   69
+14.068 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   11.74%    479.9MiB / 7.755GiB   6.04%     13.7kB / 12.1kB   0B / 4.1kB   67
+16.083 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   39.31%    479.9MiB / 7.755GiB   6.04%     14kB / 12.3kB   0B / 4.1kB   67
+18.091 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   49.90%    482.3MiB / 7.755GiB   6.07%     14.3kB / 12.6kB   0B / 4.1kB   61
+20.100 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.19%    482.2MiB / 7.755GiB   6.07%     14.5kB / 12.9kB   0B / 4.1kB   66
+22.107 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.40%    482.6MiB / 7.755GiB   6.08%     14.8kB / 13.2kB   0B / 4.1kB   70
+24.126 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.29%    479.9MiB / 7.755GiB   6.04%     15.1kB / 13.4kB   0B / 4.1kB   65
+26.138 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   43.93%    479.5MiB / 7.755GiB   6.04%     15.4kB / 13.7kB   0B / 4.1kB   65
+28.155 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   42.64%    483.7MiB / 7.755GiB   6.09%     15.6kB / 14kB   0B / 4.1kB   73
+30.161 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.27%    483.9MiB / 7.755GiB   6.09%     16kB / 14.3kB   0B / 4.1kB   70
+32.176 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   13.35%    483.4MiB / 7.755GiB   6.09%     16.2kB / 14.5kB   0B / 4.1kB   70
+34.199 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   41.79%    477.1MiB / 7.755GiB   6.01%     16.5kB / 14.8kB   0B / 4.1kB   67
+36.203 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   49.64%    477.6MiB / 7.755GiB   6.01%     16.8kB / 15.1kB   0B / 4.1kB   64
+38.213 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   13.93%    477.3MiB / 7.755GiB   6.01%     17.1kB / 15.3kB   0B / 4.1kB   71
+40.223 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   15.50%    481.7MiB / 7.755GiB   6.07%     17.3kB / 15.6kB   0B / 4.1kB   67
+42.228 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.36%    481.7MiB / 7.755GiB   6.07%     17.6kB / 15.9kB   0B / 4.1kB   67
+44.248 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   62.09%    479.6MiB / 7.755GiB   6.04%     17.9kB / 16.1kB   0B / 4.1kB   64
+46.264 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   38.69%    479.5MiB / 7.755GiB   6.04%     18.2kB / 16.4kB   0B / 4.1kB   63
+48.272 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.51%    479.5MiB / 7.755GiB   6.04%     18.4kB / 16.7kB   0B / 4.1kB   72
+50.278 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   15.25%    482.8MiB / 7.755GiB   6.08%     18.8kB / 16.9kB   0B / 4.1kB   69
+52.289 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   13.43%    483.2MiB / 7.755GiB   6.08%     19.1kB / 17.2kB   0B / 4.1kB   67
+54.302 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   62.55%    476.7MiB / 7.755GiB   6.00%     19.4kB / 17.5kB   0B / 4.1kB   68
+56.321 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   43.42%    477.2MiB / 7.755GiB   6.01%     19.7kB / 17.8kB   0B / 4.1kB   67
+58.329 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   13.36%    476.5MiB / 7.755GiB   6.00%     19.9kB / 18.1kB   0B / 4.1kB   73
+60.331 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.20%    479.5MiB / 7.755GiB   6.04%     20.2kB / 18.3kB   0B / 4.1kB   64
+62.348 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.21%    480MiB / 7.755GiB   6.04%     20.5kB / 18.6kB   0B / 4.1kB   67
+64.364 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   90.80%    477.8MiB / 7.755GiB   6.02%     20.8kB / 18.9kB   0B / 4.1kB   66
+66.380 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   47.95%    477.6MiB / 7.755GiB   6.01%     21kB / 19.1kB   0B / 4.1kB   63
+68.397 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.42%    477.5MiB / 7.755GiB   6.01%     21.3kB / 19.4kB   0B / 4.1kB   70
+70.401 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.23%    479.2MiB / 7.755GiB   6.03%     21.6kB / 19.7kB   0B / 4.1kB   71
+72.408 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   11.97%    479.1MiB / 7.755GiB   6.03%     21.9kB / 19.9kB   0B / 4.1kB   65
+74.421 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   66.34%    479MiB / 7.755GiB   6.03%     22.1kB / 20.2kB   0B / 4.1kB   65
+76.425 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   37.31%    479MiB / 7.755GiB   6.03%     22.4kB / 20.5kB   0B / 4.1kB   66
+78.438 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   15.46%    478.7MiB / 7.755GiB   6.03%     22.7kB / 20.8kB   0B / 4.1kB   67
+80.455 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   12.91%    483.6MiB / 7.755GiB   6.09%     23kB / 21.1kB   0B / 4.1kB   66
+82.466 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.57%    483.1MiB / 7.755GiB   6.08%     23.3kB / 21.3kB   0B / 4.1kB   68
+84.483 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   36.17%    486.9MiB / 7.755GiB   6.13%     23.6kB / 21.6kB   0B / 4.1kB   73
+86.494 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   44.31%    479.6MiB / 7.755GiB   6.04%     23.8kB / 21.9kB   0B / 4.1kB   62
+88.504 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   13.20%    479.9MiB / 7.755GiB   6.04%     24.1kB / 22.1kB   0B / 4.1kB   68
+90.512 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   49.09%    484.1MiB / 7.755GiB   6.10%     24.4kB / 22.4kB   0B / 4.1kB   72
+92.531 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   13.37%    483.6MiB / 7.755GiB   6.09%     24.7kB / 22.7kB   0B / 4.1kB   66
+94.541 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.48%    483.9MiB / 7.755GiB   6.09%     24.9kB / 22.9kB   0B / 4.1kB   73
+96.551 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   34.14%    478.7MiB / 7.755GiB   6.03%     25.2kB / 23.2kB   0B / 4.1kB   66
+98.568 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.29%    478.6MiB / 7.755GiB   6.03%     25.5kB / 23.5kB   0B / 4.1kB   66
+100.584 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   45.11%    482.8MiB / 7.755GiB   6.08%     25.8kB / 23.7kB   0B / 4.1kB   66
+102.590 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.83%    483.1MiB / 7.755GiB   6.08%     26.1kB / 24kB   0B / 4.1kB   67
+104.606 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.21%    482.3MiB / 7.755GiB   6.07%     26.4kB / 24.3kB   0B / 4.1kB   73
+106.610 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   42.21%    478.1MiB / 7.755GiB   6.02%     26.6kB / 24.6kB   0B / 4.1kB   64
+108.635 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   11.57%    478.1MiB / 7.755GiB   6.02%     26.9kB / 24.8kB   0B / 4.1kB   64
+110.644 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   46.14%    483.1MiB / 7.755GiB   6.08%     27.2kB / 25.1kB   0B / 4.1kB   68
+112.651 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   13.58%    482.8MiB / 7.755GiB   6.08%     27.5kB / 25.4kB   0B / 4.1kB   65
+114.669 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.32%    483.8MiB / 7.755GiB   6.09%     27.7kB / 25.6kB   0B / 4.1kB   67
+116.682 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   37.93%    480.6MiB / 7.755GiB   6.05%     28kB / 25.9kB   0B / 4.1kB   65
+118.685 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   10.74%    480.4MiB / 7.755GiB   6.05%     28.3kB / 26.2kB   0B / 4.1kB   66
+120.699 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   42.34%    483.5MiB / 7.755GiB   6.09%     28.6kB / 26.5kB   0B / 4.1kB   69
+122.710 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.54%    482.8MiB / 7.755GiB   6.08%     28.9kB / 26.7kB   0B / 4.1kB   66
+124.730 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   13.23%    483.1MiB / 7.755GiB   6.08%     29.1kB / 27kB   0B / 4.1kB   72
+126.736 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   35.37%    479.3MiB / 7.755GiB   6.04%     29.4kB / 27.3kB   0B / 4.1kB   67
+128.751 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.07%    479.4MiB / 7.755GiB   6.04%     29.7kB / 27.6kB   0B / 4.1kB   68
+130.768 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   41.80%    481.9MiB / 7.755GiB   6.07%     30kB / 27.8kB   0B / 4.1kB   72
+132.773 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   12.33%    481.4MiB / 7.755GiB   6.06%     30.3kB / 28.1kB   0B / 4.1kB   64
+134.789 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.78%    482.1MiB / 7.755GiB   6.07%     30.6kB / 28.4kB   0B / 4.1kB   68
+136.803 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   66.96%    482.3MiB / 7.755GiB   6.07%     30.8kB / 28.6kB   0B / 4.1kB   66
+138.825 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.34%    482.3MiB / 7.755GiB   6.07%     31.1kB / 28.9kB   0B / 4.1kB   67
+140.839 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   18.10%    482.6MiB / 7.755GiB   6.08%     31.4kB / 29.2kB   0B / 4.1kB   71
+142.854 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   13.92%    484.5MiB / 7.755GiB   6.10%     31.7kB / 29.4kB   0B / 4.1kB   64
+144.861 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.50%    485MiB / 7.755GiB   6.11%     32.1kB / 29.8kB   0B / 4.1kB   65
+146.868 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   90.87%    485.2MiB / 7.755GiB   6.11%     32.3kB / 30.1kB   0B / 4.1kB   66
+148.882 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.11%    485.2MiB / 7.755GiB   6.11%     32.6kB / 30.4kB   0B / 4.1kB   67
+150.894 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   17.19%    486MiB / 7.755GiB   6.12%     32.9kB / 30.7kB   0B / 4.1kB   71
+152.897 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   12.17%    488.4MiB / 7.755GiB   6.15%     33.2kB / 31kB   0B / 4.1kB   66
+154.913 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.92%    487.7MiB / 7.755GiB   6.14%     33.5kB / 31.2kB   0B / 4.1kB   68
+156.931 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   99.92%    481.9MiB / 7.755GiB   6.07%     33.8kB / 31.5kB   0B / 4.1kB   65
+158.937 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   12.94%    482.5MiB / 7.755GiB   6.08%     34kB / 31.8kB   0B / 4.1kB   65
+160.946 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   17.01%    482.6MiB / 7.755GiB   6.08%     34.3kB / 32kB   0B / 4.1kB   73
+162.956 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.42%    484.3MiB / 7.755GiB   6.10%     34.6kB / 32.3kB   0B / 4.1kB   65
+164.974 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.38%    484.3MiB / 7.755GiB   6.10%     34.9kB / 32.6kB   0B / 4.1kB   67
+166.988 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   85.38%    480.4MiB / 7.755GiB   6.05%     35.1kB / 32.8kB   0B / 4.1kB   66
+168.999 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   15.18%    481.1MiB / 7.755GiB   6.06%     35.4kB / 33.1kB   0B / 4.1kB   67
+171.004 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   19.96%    481.5MiB / 7.755GiB   6.06%     35.7kB / 33.4kB   0B / 4.1kB   73
+173.021 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   13.24%    483.5MiB / 7.755GiB   6.09%     36kB / 33.6kB   0B / 4.1kB   65
+175.034 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   42.81%    436.3MiB / 7.755GiB   5.49%     36.3kB / 33.9kB   0B / 4.1kB   67
+177.038 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   110.67%   474.2MiB / 7.755GiB   5.97%     36.6kB / 34.2kB   0B / 4.1kB   73
+179.050 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.40%    473.3MiB / 7.755GiB   5.96%     36.9kB / 34.4kB   0B / 4.1kB   65
+181.061 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   21.86%    474.3MiB / 7.755GiB   5.97%     37.1kB / 34.7kB   0B / 4.1kB   72
+183.065 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   16.04%    486.8MiB / 7.755GiB   6.13%     37.4kB / 35kB   0B / 4.1kB   59
+185.082 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.91%    486.7MiB / 7.755GiB   6.13%     37.7kB / 35.2kB   0B / 4.1kB   59
+187.100 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   30.94%    486.6MiB / 7.755GiB   6.13%     38kB / 35.5kB   0B / 4.1kB   68
+189.115 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.21%    494MiB / 7.755GiB   6.22%     38.3kB / 35.8kB   0B / 4.1kB   65
+191.141 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   30.03%    494.6MiB / 7.755GiB   6.23%     38.5kB / 36kB   0B / 4.1kB   73
+193.151 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   40.71%    502.5MiB / 7.755GiB   6.33%     38.8kB / 36.4kB   0B / 4.1kB   60
+195.176 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   13.51%    503MiB / 7.755GiB   6.33%     39.1kB / 36.6kB   0B / 4.1kB   62
+197.193 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   29.35%    502.3MiB / 7.755GiB   6.32%     39.4kB / 36.9kB   0B / 4.1kB   71
+199.203 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   12.49%    476.7MiB / 7.755GiB   6.00%     39.7kB / 37.2kB   0B / 4.1kB   64
+201.221 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   24.28%    477.4MiB / 7.755GiB   6.01%     40kB / 37.4kB   0B / 4.1kB   71
+203.235 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   43.03%    483.5MiB / 7.755GiB   6.09%     40.2kB / 37.7kB   0B / 4.1kB   65
+205.250 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   11.46%    483.3MiB / 7.755GiB   6.09%     40.5kB / 38kB   0B / 4.1kB   70
+207.262 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   32.28%    483.6MiB / 7.755GiB   6.09%     40.8kB / 38.2kB   0B / 4.1kB   69
+209.273 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.34%    479.5MiB / 7.755GiB   6.04%     41.1kB / 38.5kB   0B / 4.1kB   65
+211.287 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   26.32%    480.6MiB / 7.755GiB   6.05%     41.3kB / 38.8kB   0B / 4.1kB   72
+213.295 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   54.69%    483.6MiB / 7.755GiB   6.09%     41.6kB / 39kB   0B / 4.1kB   68
+215.307 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   12.78%    483.7MiB / 7.755GiB   6.09%     41.9kB / 39.3kB   0B / 4.1kB   69
+217.319 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   25.31%    483.9MiB / 7.755GiB   6.09%     42.2kB / 39.6kB   0B / 4.1kB   67
+219.323 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.30%    478.9MiB / 7.755GiB   6.03%     42.4kB / 39.8kB   0B / 4.1kB   63
+221.335 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   29.55%    479.1MiB / 7.755GiB   6.03%     42.7kB / 40.1kB   0B / 4.1kB   69
+223.342 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   49.53%    484.8MiB / 7.755GiB   6.10%     43kB / 40.4kB   0B / 4.1kB   65
+225.352 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   12.64%    484MiB / 7.755GiB   6.09%     43.3kB / 40.6kB   0B / 4.1kB   66
+227.367 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   21.58%    483.8MiB / 7.755GiB   6.09%     43.5kB / 40.9kB   0B / 4.1kB   70
+229.380 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   22.92%    479.5MiB / 7.755GiB   6.04%     43.8kB / 41.2kB   0B / 4.1kB   66
+231.388 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   37.79%    480MiB / 7.755GiB   6.04%     44.1kB / 41.5kB   0B / 4.1kB   70
+233.402 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.38%    479.7MiB / 7.755GiB   6.04%     44.4kB / 41.7kB   0B / 4.1kB   73
+235.413 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   15.42%    485.2MiB / 7.755GiB   6.11%     44.6kB / 42kB   0B / 4.1kB   62
+237.426 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   17.84%    485.6MiB / 7.755GiB   6.11%     44.9kB / 42.3kB   0B / 4.1kB   64
+239.438 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   50.43%    492.5MiB / 7.755GiB   6.20%     45.2kB / 42.6kB   0B / 4.1kB   73
+241.443 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   42.06%    493.6MiB / 7.755GiB   6.22%     45.5kB / 42.8kB   0B / 4.1kB   73
+243.452 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.45%    493.2MiB / 7.755GiB   6.21%     45.8kB / 43.1kB   0B / 4.1kB   68
+245.472 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.34%    476.3MiB / 7.755GiB   6.00%     46.1kB / 43.4kB   0B / 4.1kB   65
+247.478 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.93%    476.7MiB / 7.755GiB   6.00%     46.3kB / 43.6kB   0B / 4.1kB   71
+249.490 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   38.88%    483.6MiB / 7.755GiB   6.09%     46.6kB / 43.9kB   0B / 4.1kB   64
+251.506 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   33.24%    483.7MiB / 7.755GiB   6.09%     46.9kB / 44.2kB   0B / 4.1kB   69
+253.504 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   15.56%    483.6MiB / 7.755GiB   6.09%     47.2kB / 44.4kB   0B / 4.1kB   69
+255.516 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.51%    479.8MiB / 7.755GiB   6.04%     47.4kB / 44.7kB   0B / 4.1kB   65
+257.536 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   17.00%    479.7MiB / 7.755GiB   6.04%     47.7kB / 45kB   0B / 4.1kB   67
+259.553 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   44.71%    485.4MiB / 7.755GiB   6.11%     48kB / 45.2kB   0B / 4.1kB   70
+261.573 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   37.22%    485.1MiB / 7.755GiB   6.11%     48.3kB / 45.5kB   0B / 4.1kB   73
+263.590 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   15.32%    484.9MiB / 7.755GiB   6.11%     48.5kB / 45.8kB   0B / 4.1kB   72
+265.610 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   13.31%    493.9MiB / 7.755GiB   6.22%     48.8kB / 46kB   0B / 4.1kB   62
+267.626 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   14.38%    493.8MiB / 7.755GiB   6.22%     49.1kB / 46.3kB   0B / 4.1kB   66
+269.634 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   74.96%    480.6MiB / 7.755GiB   6.05%     49.4kB / 46.6kB   0B / 4.1kB   70
+271.648 seconds
+CONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+b24b6f3947ce   frontend-app   42.40%    480.4MiB / 7.755GiB   6.05%     49.7kB / 46.9kB   0B / 4.1kB   73
+273.663 seconds
