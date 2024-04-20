@@ -1,0 +1,123 @@
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O     BLOCK I/O     PIDS
+33479d21b62a   backend-app   0.11%     42.48MiB / 7.755GiB   0.53%     726B / 0B   8.53MB / 0B   2
+1.619 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O     BLOCK I/O     PIDS
+33479d21b62a   backend-app   0.07%     42.48MiB / 7.755GiB   0.53%     726B / 0B   8.53MB / 0B   2
+3.640 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O     BLOCK I/O     PIDS
+33479d21b62a   backend-app   0.06%     42.23MiB / 7.755GiB   0.53%     726B / 0B   8.53MB / 0B   2
+5.666 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O     BLOCK I/O     PIDS
+33479d21b62a   backend-app   0.06%     42.48MiB / 7.755GiB   0.53%     796B / 0B   8.53MB / 0B   2
+7.693 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O     BLOCK I/O     PIDS
+33479d21b62a   backend-app   0.07%     42.48MiB / 7.755GiB   0.53%     796B / 0B   8.53MB / 0B   2
+9.706 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O     BLOCK I/O     PIDS
+33479d21b62a   backend-app   0.13%     42.23MiB / 7.755GiB   0.53%     796B / 0B   8.53MB / 0B   2
+11.746 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O     BLOCK I/O     PIDS
+33479d21b62a   backend-app   0.07%     42.48MiB / 7.755GiB   0.53%     796B / 0B   8.53MB / 0B   2
+13.763 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O     BLOCK I/O     PIDS
+33479d21b62a   backend-app   0.05%     42.48MiB / 7.755GiB   0.53%     796B / 0B   8.53MB / 0B   2
+15.787 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+33479d21b62a   backend-app   33.20%    129.2MiB / 7.755GiB   1.63%     87.3MB / 142kB   8.53MB / 0B   2
+17.791 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+33479d21b62a   backend-app   106.35%   629.6MiB / 7.755GiB   7.93%     617MB / 816kB   8.53MB / 0B   2
+19.811 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+33479d21b62a   backend-app   100.19%   1.013GiB / 7.755GiB   13.06%    1.04GB / 1.43MB   8.53MB / 0B   2
+21.823 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+33479d21b62a   backend-app   96.60%    1.556GiB / 7.755GiB   20.06%    1.63GB / 2.15MB   8.53MB / 0B   2
+23.831 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+33479d21b62a   backend-app   100.00%   1.567GiB / 7.755GiB   20.21%    1.63GB / 2.15MB   8.53MB / 0B   2
+25.866 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+33479d21b62a   backend-app   100.58%   1.579GiB / 7.755GiB   20.36%    1.63GB / 2.15MB   8.53MB / 453MB   2
+27.883 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O        PIDS
+33479d21b62a   backend-app   100.05%   1.59GiB / 7.755GiB   20.50%    1.63GB / 2.15MB   8.53MB / 851MB   2
+29.896 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   90.37%    1.621GiB / 7.755GiB   20.90%    1.63GB / 2.15MB   8.86MB / 1.24GB   2
+31.911 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   30.46%    1.621GiB / 7.755GiB   20.90%    1.63GB / 2.15MB   8.86MB / 1.24GB   2
+33.927 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   39.41%    1.622GiB / 7.755GiB   20.91%    1.63GB / 2.15MB   8.86MB / 1.24GB   2
+35.944 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   34.60%    1.621GiB / 7.755GiB   20.91%    1.63GB / 2.15MB   8.86MB / 1.24GB   2
+37.960 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   40.61%    1.622GiB / 7.755GiB   20.91%    1.63GB / 2.15MB   8.86MB / 1.24GB   2
+39.960 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   51.31%    1.622GiB / 7.755GiB   20.92%    1.63GB / 2.15MB   8.86MB / 1.24GB   2
+41.983 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   44.88%    1.623GiB / 7.755GiB   20.92%    1.63GB / 2.15MB   8.86MB / 1.24GB   2
+43.980 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   37.85%    1.623GiB / 7.755GiB   20.92%    1.63GB / 2.15MB   8.86MB / 1.24GB   2
+46.002 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   37.57%    1.622GiB / 7.755GiB   20.92%    1.63GB / 2.15MB   8.86MB / 1.62GB   2
+48.053 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   75.72%    1.623GiB / 7.755GiB   20.92%    1.63GB / 2.15MB   8.86MB / 1.62GB   2
+50.022 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   42.35%    1.623GiB / 7.755GiB   20.93%    1.63GB / 2.15MB   8.86MB / 1.62GB   2
+52.031 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   34.70%    1.621GiB / 7.755GiB   20.91%    1.63GB / 2.15MB   8.86MB / 1.62GB   2
+54.044 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   38.51%    1.622GiB / 7.755GiB   20.92%    1.63GB / 2.15MB   8.86MB / 1.62GB   2
+56.053 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   37.88%    1.622GiB / 7.755GiB   20.91%    1.63GB / 2.15MB   8.86MB / 1.62GB   2
+58.084 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   42.12%    1.622GiB / 7.755GiB   20.91%    1.63GB / 2.15MB   8.86MB / 1.62GB   2
+60.071 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   43.49%    1.622GiB / 7.755GiB   20.92%    1.63GB / 2.15MB   8.86MB / 1.62GB   2
+62.087 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   40.88%    1.622GiB / 7.755GiB   20.92%    1.63GB / 2.15MB   8.86MB / 1.62GB   2
+64.100 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   0.06%     61.91MiB / 7.755GiB   0.78%     1.63GB / 2.15MB   9.13MB / 1.62GB   2
+66.145 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   0.04%     62.16MiB / 7.755GiB   0.78%     1.63GB / 2.15MB   9.13MB / 1.62GB   2
+68.165 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   0.03%     61.91MiB / 7.755GiB   0.78%     1.63GB / 2.15MB   9.13MB / 1.62GB   2
+70.214 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   0.05%     61.91MiB / 7.755GiB   0.78%     1.63GB / 2.15MB   9.13MB / 1.62GB   2
+72.221 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   0.08%     61.97MiB / 7.755GiB   0.78%     1.63GB / 2.15MB   9.13MB / 1.62GB   2
+74.240 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   0.05%     61.72MiB / 7.755GiB   0.78%     1.63GB / 2.15MB   9.13MB / 1.62GB   2
+76.274 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   0.04%     61.72MiB / 7.755GiB   0.78%     1.63GB / 2.15MB   9.13MB / 1.62GB   2
+78.294 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   0.06%     61.72MiB / 7.755GiB   0.78%     1.63GB / 2.15MB   9.13MB / 1.62GB   2
+80.317 seconds
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+33479d21b62a   backend-app   0.07%     61.72MiB / 7.755GiB   0.78%     1.63GB / 2.15MB   9.13MB / 1.62GB   2
+82.329 seconds
